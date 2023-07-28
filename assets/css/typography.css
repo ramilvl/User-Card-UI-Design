@@ -1,0 +1,67 @@
+.pt-8px{
+    padding-top: 8px;
+}
+
+.pt-24px{
+    padding-top: 24px;
+}
+
+.p-50px{
+    padding: 50px;
+}
+
+.mt-16px{
+    margin-top: 16px;
+}
+
+.mt-28px{
+    margin-top: 28px;
+}
+
+.mt-32px{
+    margin-top: 32px;
+}
+
+
+.text-size-16px{
+    font-size: 16px;
+}
+
+.text-size-18px{
+    font-size: 18px;
+}
+
+.text-size-26px{
+    font-size: 26px;
+}
+
+.font-500{
+    font-weight: 500;
+}
+
+.font-700{
+    font-weight: 700;
+}
+
+.color-primary{
+    color: var(--1-c-2-b-62, #1C2B62);
+}
+
+.display-block{
+    display: block;
+}
+
+.same-line{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 4px;
+}
+
+.line-height{
+    line-height: normal;
+}
+
+.width-332px{
+    width: 332px;
+}

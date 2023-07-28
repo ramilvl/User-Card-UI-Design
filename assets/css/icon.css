@@ -1,0 +1,22 @@
+.icon {
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-1{
+    background-image: url('../icons/icon1.svg');
+}
+
+.icon-2{
+    background-image: url('../icons/icon2.svg');
+}
+
+.icon-3{
+    background-image: url('../icons/icon3.svg');
+}
